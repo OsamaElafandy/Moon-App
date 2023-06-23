@@ -18,4 +18,4 @@
 
 <p align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/moon%2Fsignup2.jpeg?alt=media&token=09251d9e-8d39-4722-a066-e64e5f6d2890"  height="60%" width="40%" >
-<img src=""  height="60%" width="40%" >
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/moon%2Fhome.jpeg?alt=media&token=f4b31342-4634-4161-a872-664112518376"  height="60%" width="40%" >
